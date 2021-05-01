@@ -16,4 +16,5 @@ This project was generated with Angular CLI version 9.1.7.
 3) The website will automatically reload if you change any of the source files.
 
 ##Dependencies
+
 Angular 9, ASP.NET CORE 3.1, MySQL/ Sqllite extension for vs code, Redis(NoSql Database)- For Basket Functionality
