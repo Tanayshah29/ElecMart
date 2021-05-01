@@ -9,6 +9,7 @@
 5) To try out the APIs refer the following swagger documentation: https://localhost:5001/swagger/index.html
 
 ##Client
+
 This project was generated with Angular CLI version 9.1.7.
 
 1) Run `ng serve` for a dev server
